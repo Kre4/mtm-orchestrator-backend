@@ -5,25 +5,26 @@ spring:
     url: jdbc:postgresql://localhost:5432/mtm
     username: mtm
     password: mtm
+  flyway:
+    baseline-on-migrate: true
+    baseline-version: 0
   ai:
     model:
       chat: none
-      embedding: openai
-    openai:
-      api-key: ${OPENAI_API_KEY}
+      embedding: ollama
+    ollama:
       embedding:
-        metadata-mode: embed
-        model: text-embedding-3-small
+        model: bge-m3
     vectorstore:
       pgvector:
         initialize-schema: true
-        dimensions: 1536
+        dimensions: 1024
         index-type: HNSW
         distance-type: COSINE_DISTANCE
 
 mtm:
   knowledge:
-    base-path: knowledge_base
+    corpus-location: classpath:knowledge/
     top-k: 3
     similarity-threshold: 0.5
     index-on-startup: true

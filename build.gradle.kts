@@ -21,7 +21,12 @@ extra["springAiVersion"] = "2.0.1"
 
 dependencies {
 	implementation("org.springframework.boot:spring-boot-starter-webmvc")
-	implementation("org.springframework.ai:spring-ai-starter-model-openai")
+	implementation("org.springframework.boot:spring-boot-starter-flyway")
+	implementation("org.flywaydb:flyway-database-postgresql")
+	implementation("org.springframework.boot:spring-boot-starter-validation")
+	implementation("org.springframework.boot:spring-boot-starter-validation")
+	implementation("org.springframework.ai:spring-ai-starter-model-ollama")
+
 	implementation("org.springframework.ai:spring-ai-starter-vector-store-pgvector")
 	implementation("org.springframework.ai:spring-ai-vector-store-advisor")
 	compileOnly("org.projectlombok:lombok")
