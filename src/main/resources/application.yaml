@@ -1,0 +1,29 @@
+spring:
+  application:
+    name: backend
+  datasource:
+    url: jdbc:postgresql://localhost:5432/mtm
+    username: mtm
+    password: mtm
+  ai:
+    model:
+      chat: none
+      embedding: openai
+    openai:
+      api-key: ${OPENAI_API_KEY}
+      embedding:
+        metadata-mode: embed
+        model: text-embedding-3-small
+    vectorstore:
+      pgvector:
+        initialize-schema: true
+        dimensions: 1536
+        index-type: HNSW
+        distance-type: COSINE_DISTANCE
+
+mtm:
+  knowledge:
+    base-path: knowledge_base
+    top-k: 3
+    similarity-threshold: 0.5
+    index-on-startup: true

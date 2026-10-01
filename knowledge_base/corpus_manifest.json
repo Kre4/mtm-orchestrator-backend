@@ -1,0 +1,290 @@
+{
+  "version": "1.0",
+  "documents": [
+    {
+      "document_id": "gtd_what_is_gtd",
+      "path": "gtd/01_what_is_gtd.md",
+      "type": "gtd",
+      "indexable": true,
+      "source_ids": [
+        "SRC-GTD-OVERVIEW"
+      ]
+    },
+    {
+      "document_id": "gtd_capture_inbox",
+      "path": "gtd/02_capture_and_inbox.md",
+      "type": "gtd",
+      "indexable": true,
+      "source_ids": [
+        "SRC-GTD-OVERVIEW",
+        "SRC-GTD-INBOX"
+      ]
+    },
+    {
+      "document_id": "gtd_clarify_process",
+      "path": "gtd/03_clarify_and_process.md",
+      "type": "gtd",
+      "indexable": true,
+      "source_ids": [
+        "SRC-GTD-INBOX",
+        "SRC-GTD-OVERVIEW"
+      ]
+    },
+    {
+      "document_id": "gtd_two_minute_rule",
+      "path": "gtd/04_two_minute_rule.md",
+      "type": "gtd",
+      "indexable": true,
+      "source_ids": [
+        "SRC-GTD-TWO-MINUTES",
+        "SRC-GTD-INBOX"
+      ]
+    },
+    {
+      "document_id": "gtd_next_action",
+      "path": "gtd/05_next_action.md",
+      "type": "gtd",
+      "indexable": true,
+      "source_ids": [
+        "SRC-GTD-DEFINITIONS",
+        "SRC-GTD-INBOX"
+      ]
+    },
+    {
+      "document_id": "gtd_projects",
+      "path": "gtd/06_projects.md",
+      "type": "gtd",
+      "indexable": true,
+      "source_ids": [
+        "SRC-GTD-DEFINITIONS",
+        "SRC-GTD-REVIEW",
+        "SRC-GTD-INBOX"
+      ]
+    },
+    {
+      "document_id": "gtd_contexts",
+      "path": "gtd/07_contexts.md",
+      "type": "gtd",
+      "indexable": true,
+      "source_ids": [
+        "SRC-GTD-DEFINITIONS",
+        "SRC-GTD-CHOOSING"
+      ]
+    },
+    {
+      "document_id": "gtd_waiting_for",
+      "path": "gtd/08_waiting_for_and_delegation.md",
+      "type": "gtd",
+      "indexable": true,
+      "source_ids": [
+        "SRC-GTD-DEFINITIONS",
+        "SRC-GTD-DELEGATION",
+        "SRC-GTD-INBOX",
+        "SRC-GTD-REVIEW"
+      ]
+    },
+    {
+      "document_id": "gtd_someday_maybe",
+      "path": "gtd/09_someday_maybe.md",
+      "type": "gtd",
+      "indexable": true,
+      "source_ids": [
+        "SRC-GTD-DEFINITIONS",
+        "SRC-GTD-REVIEW"
+      ]
+    },
+    {
+      "document_id": "gtd_calendar",
+      "path": "gtd/10_calendar_and_dated_actions.md",
+      "type": "gtd",
+      "indexable": true,
+      "source_ids": [
+        "SRC-GTD-CALENDAR",
+        "SRC-GTD-DEFINITIONS"
+      ]
+    },
+    {
+      "document_id": "gtd_reference_materials",
+      "path": "gtd/11_reference_materials.md",
+      "type": "gtd",
+      "indexable": true,
+      "source_ids": [
+        "SRC-GTD-REFERENCE",
+        "SRC-GTD-OVERVIEW"
+      ]
+    },
+    {
+      "document_id": "gtd_engage_priorities",
+      "path": "gtd/12_engage_and_priorities.md",
+      "type": "gtd",
+      "indexable": true,
+      "source_ids": [
+        "SRC-GTD-CHOOSING",
+        "SRC-GTD-CALENDAR",
+        "SRC-GTD-REVIEW"
+      ]
+    },
+    {
+      "document_id": "gtd_weekly_review",
+      "path": "gtd/13_weekly_review.md",
+      "type": "gtd",
+      "indexable": true,
+      "source_ids": [
+        "SRC-GTD-REVIEW"
+      ]
+    },
+    {
+      "document_id": "app_about_mtm",
+      "path": "application/01_about_mtm_and_chat.md",
+      "type": "application",
+      "indexable": true,
+      "source_ids": [
+        "SRC-MTM-PASSPORT",
+        "SRC-MTM-ACCEPTANCE",
+        "SRC-MTM-POLICY"
+      ]
+    },
+    {
+      "document_id": "app_create_task",
+      "path": "application/02_create_task.md",
+      "type": "application",
+      "indexable": true,
+      "source_ids": [
+        "SRC-MTM-PASSPORT",
+        "SRC-MTM-POLICY",
+        "SRC-MTM-ACCEPTANCE",
+        "SRC-MTM-STAGE2"
+      ]
+    },
+    {
+      "document_id": "app_list_tasks",
+      "path": "application/03_list_and_find_tasks.md",
+      "type": "application",
+      "indexable": true,
+      "source_ids": [
+        "SRC-MTM-PASSPORT",
+        "SRC-MTM-POLICY",
+        "SRC-MTM-ACCEPTANCE"
+      ]
+    },
+    {
+      "document_id": "app_update_task",
+      "path": "application/04_update_task.md",
+      "type": "application",
+      "indexable": true,
+      "source_ids": [
+        "SRC-MTM-PASSPORT",
+        "SRC-MTM-POLICY",
+        "SRC-MTM-ACCEPTANCE"
+      ]
+    },
+    {
+      "document_id": "app_complete_task",
+      "path": "application/05_complete_task.md",
+      "type": "application",
+      "indexable": true,
+      "source_ids": [
+        "SRC-MTM-PASSPORT",
+        "SRC-MTM-POLICY",
+        "SRC-MTM-ACCEPTANCE",
+        "SRC-MTM-STAGE2"
+      ]
+    },
+    {
+      "document_id": "app_delete_task",
+      "path": "application/06_delete_task_and_confirmation.md",
+      "type": "application",
+      "indexable": true,
+      "source_ids": [
+        "SRC-MTM-PASSPORT",
+        "SRC-MTM-POLICY",
+        "SRC-MTM-ACCEPTANCE",
+        "SRC-MTM-STAGE2"
+      ]
+    },
+    {
+      "document_id": "app_task_dates_calendar",
+      "path": "application/07_task_dates_and_calendar.md",
+      "type": "application",
+      "indexable": true,
+      "source_ids": [
+        "SRC-MTM-PASSPORT",
+        "SRC-MTM-POLICY",
+        "SRC-MTM-STAGE2"
+      ]
+    },
+    {
+      "document_id": "app_projects",
+      "path": "application/08_projects.md",
+      "type": "application",
+      "indexable": false,
+      "source_ids": [
+        "SRC-MTM-PASSPORT",
+        "SRC-MTM-STAGE2"
+      ],
+      "reason": "Раздел присутствует в интерфейсе, но операции с проектами не определены для AI-MVP."
+    },
+    {
+      "document_id": "app_someday",
+      "path": "application/09_someday.md",
+      "type": "application",
+      "indexable": true,
+      "source_ids": [
+        "SRC-MTM-STAGE2"
+      ]
+    },
+    {
+      "document_id": "app_archive",
+      "path": "application/10_archive.md",
+      "type": "application",
+      "indexable": true,
+      "source_ids": [
+        "SRC-MTM-STAGE2"
+      ]
+    },
+    {
+      "document_id": "app_reference",
+      "path": "application/11_reference.md",
+      "type": "application",
+      "indexable": true,
+      "source_ids": [
+        "SRC-MTM-STAGE2",
+        "SRC-MTM-PASSPORT"
+      ]
+    },
+    {
+      "document_id": "app_knowledge_answers",
+      "path": "application/12_knowledge_answers.md",
+      "type": "application",
+      "indexable": true,
+      "source_ids": [
+        "SRC-MTM-PASSPORT",
+        "SRC-MTM-POLICY",
+        "SRC-MTM-ACCEPTANCE"
+      ]
+    },
+    {
+      "document_id": "app_clarification_fallback",
+      "path": "application/13_clarification_and_fallback.md",
+      "type": "application",
+      "indexable": true,
+      "source_ids": [
+        "SRC-MTM-POLICY",
+        "SRC-MTM-PASSPORT",
+        "SRC-MTM-ACCEPTANCE"
+      ]
+    },
+    {
+      "document_id": "app_privacy_limits",
+      "path": "application/14_privacy_and_limits.md",
+      "type": "application",
+      "indexable": true,
+      "source_ids": [
+        "SRC-MTM-PASSPORT",
+        "SRC-MTM-POLICY",
+        "SRC-MTM-ACCEPTANCE",
+        "SRC-MTM-STAGE2"
+      ]
+    }
+  ]
+}

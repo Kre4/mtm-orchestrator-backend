@@ -1,0 +1,143 @@
+﻿id,query,type,topic,expected_document,relevant_documents,status,split
+1,что такое GTD,gtd,01_what_is_gtd,gtd/01_what_is_gtd.md,gtd/01_what_is_gtd.md,READY,dev
+2,расскажи что такое метод GTD,gtd,01_what_is_gtd,gtd/01_what_is_gtd.md,gtd/01_what_is_gtd.md,READY,dev
+3,в чем заключается система GTD,gtd,01_what_is_gtd,gtd/01_what_is_gtd.md,gtd/01_what_is_gtd.md,READY,dev
+4,как работает GTD,gtd,01_what_is_gtd,gtd/01_what_is_gtd.md,gtd/01_what_is_gtd.md,READY,dev
+5,для чего нужен GTD,gtd,01_what_is_gtd,gtd/01_what_is_gtd.md,gtd/01_what_is_gtd.md,READY,dev
+6,какие основные принципы GTD,gtd,01_what_is_gtd,gtd/01_what_is_gtd.md,gtd/01_what_is_gtd.md,READY,dev
+7,из каких этапов состоит GTD,gtd,01_what_is_gtd,gtd/01_what_is_gtd.md,gtd/01_what_is_gtd.md,READY,dev
+8,что означает getting things done,gtd,01_what_is_gtd,gtd/01_what_is_gtd.md,gtd/01_what_is_gtd.md,READY,dev
+9,объясни методику GTD простыми словами,gtd,01_what_is_gtd,gtd/01_what_is_gtd.md,gtd/01_what_is_gtd.md,READY,dev
+10,как начать пользоваться GTD,gtd,01_what_is_gtd,gtd/01_what_is_gtd.md,gtd/01_what_is_gtd.md,READY,dev
+11,что такое входящие в GTD,gtd,02_capture_and_inbox,gtd/02_capture_and_inbox.md,gtd/02_capture_and_inbox.md,READY,dev
+12,что такое inbox в GTD,gtd,02_capture_and_inbox,gtd/02_capture_and_inbox.md,gtd/02_capture_and_inbox.md,READY,dev
+13,что такое сбор информации в GTD,gtd,02_capture_and_inbox,gtd/02_capture_and_inbox.md,gtd/02_capture_and_inbox.md,READY,dev
+14,что означает обработать входящие,gtd,03_clarify_and_process,gtd/03_clarify_and_process.md,gtd/03_clarify_and_process.md,READY,dev
+15,как разбирать входящие задачи по GTD,gtd,03_clarify_and_process,gtd/03_clarify_and_process.md,gtd/03_clarify_and_process.md,READY,dev
+16,что делать с новой задачей после того как я её записал,gtd,03_clarify_and_process,gtd/03_clarify_and_process.md,gtd/03_clarify_and_process.md,READY,dev
+17,как обработать входящую задачу,gtd,03_clarify_and_process,gtd/03_clarify_and_process.md,gtd/03_clarify_and_process.md,READY,dev
+18,как понять нужно ли выполнять задачу,gtd,03_clarify_and_process,gtd/03_clarify_and_process.md,gtd/03_clarify_and_process.md,READY,dev
+19,что делать если задача не требует действий,gtd,03_clarify_and_process,gtd/03_clarify_and_process.md,gtd/03_clarify_and_process.md,READY,dev
+20,как понять что входящие полностью разобраны,gtd,03_clarify_and_process,gtd/03_clarify_and_process.md,gtd/03_clarify_and_process.md,READY,dev
+21,куда помещать задачу если её можно сделать за две минуты,gtd,04_two_minute_rule,gtd/04_two_minute_rule.md,gtd/04_two_minute_rule.md,READY,dev
+22,что означает правило двух минут в GTD,gtd,04_two_minute_rule,gtd/04_two_minute_rule.md,gtd/04_two_minute_rule.md,READY,dev
+23,что такое следующее действие,gtd,05_next_action,gtd/05_next_action.md,gtd/05_next_action.md,READY,dev
+24,что значит next action в GTD,gtd,05_next_action,gtd/05_next_action.md,gtd/05_next_action.md,READY,dev
+25,"Как в GTD выбрать, какое из уже определённых следующих действий выполнить сейчас?",gtd,12_engage_and_priorities,gtd/12_engage_and_priorities.md,gtd/12_engage_and_priorities.md,READY,dev
+26,как определить следующее действие для задачи,gtd,05_next_action,gtd/05_next_action.md,gtd/05_next_action.md,READY,dev
+27,что делать если у задачи нет конкретного следующего действия,gtd,05_next_action,gtd/05_next_action.md,gtd/05_next_action.md,READY,dev
+28,как формулировать следующие действия,gtd,05_next_action,gtd/05_next_action.md,gtd/05_next_action.md,READY,dev
+29,каким должно быть хорошее следующее действие,gtd,05_next_action,gtd/05_next_action.md,gtd/05_next_action.md,READY,dev
+30,как понять что задача сформулирована слишком абстрактно,gtd,05_next_action,gtd/05_next_action.md,gtd/05_next_action.md,READY,dev
+31,что такое проект в GTD,gtd,06_projects,gtd/06_projects.md,gtd/06_projects.md,READY,dev
+32,чем проект отличается от задачи в GTD,gtd,06_projects,gtd/06_projects.md,gtd/06_projects.md,READY,dev
+33,что делать если задача слишком большая,gtd,06_projects,gtd/06_projects.md,gtd/06_projects.md,READY,dev
+34,как превратить большую задачу в проект,gtd,06_projects,gtd/06_projects.md,gtd/06_projects.md,READY,dev
+35,как разбивать проект на следующие действия,gtd,06_projects,gtd/06_projects.md,gtd/06_projects.md,READY,dev
+36,как распределять задачи по проектам,gtd,06_projects,gtd/06_projects.md,gtd/06_projects.md,READY,dev
+37,как отслеживать прогресс проекта в GTD,gtd,06_projects,gtd/06_projects.md,gtd/06_projects.md,READY,dev
+38,как понять что проект завершён,gtd,06_projects,gtd/06_projects.md,gtd/06_projects.md,READY,dev
+39,что такое контексты в GTD,gtd,07_contexts,gtd/07_contexts.md,gtd/07_contexts.md,READY,dev
+40,зачем нужны контексты в GTD,gtd,07_contexts,gtd/07_contexts.md,gtd/07_contexts.md,READY,dev
+41,как использовать контексты для организации задач,gtd,07_contexts,gtd/07_contexts.md,gtd/07_contexts.md,READY,dev
+42,как организовать задачи по контекстам,gtd,07_contexts,gtd/07_contexts.md,gtd/07_contexts.md,READY,dev
+43,что такое список ожидания в GTD,gtd,08_waiting_for_and_delegation,gtd/08_waiting_for_and_delegation.md,gtd/08_waiting_for_and_delegation.md,READY,dev
+44,для чего нужен список waiting for,gtd,08_waiting_for_and_delegation,gtd/08_waiting_for_and_delegation.md,gtd/08_waiting_for_and_delegation.md,READY,dev
+45,когда нужно делегировать задачу,gtd,08_waiting_for_and_delegation,gtd/08_waiting_for_and_delegation.md,gtd/08_waiting_for_and_delegation.md,READY,dev
+46,что делать с делегированной задачей в GTD,gtd,08_waiting_for_and_delegation,gtd/08_waiting_for_and_delegation.md,gtd/08_waiting_for_and_delegation.md,READY,dev
+47,куда записывать задачу которую я жду от другого человека,gtd,08_waiting_for_and_delegation,gtd/08_waiting_for_and_delegation.md,gtd/08_waiting_for_and_delegation.md,READY,dev
+48,как контролировать задачи которые я делегировал,gtd,08_waiting_for_and_delegation,gtd/08_waiting_for_and_delegation.md,gtd/08_waiting_for_and_delegation.md,READY,dev
+49,как не забывать про задачи из списка ожидания,gtd,08_waiting_for_and_delegation,gtd/08_waiting_for_and_delegation.md,gtd/08_waiting_for_and_delegation.md,READY,dev
+50,что такое список когда-нибудь может быть,gtd,09_someday_maybe,gtd/09_someday_maybe.md,gtd/09_someday_maybe.md,READY,dev
+51,что означает someday maybe,gtd,09_someday_maybe,gtd/09_someday_maybe.md,gtd/09_someday_maybe.md,READY,dev
+52,"Куда в GTD записать возможное дело, за которое я пока не обязуюсь браться?",gtd,09_someday_maybe,gtd/09_someday_maybe.md,gtd/09_someday_maybe.md,READY,dev
+53,Где в GTD хранить идеи возможных будущих дел?,gtd,09_someday_maybe,gtd/09_someday_maybe.md,gtd/09_someday_maybe.md,READY,dev
+54,что такое календарь в системе GTD,gtd,10_calendar_and_dated_actions,gtd/10_calendar_and_dated_actions.md,gtd/10_calendar_and_dated_actions.md,READY,dev
+55,Какие действия и сведения относятся к календарю GTD?,gtd,10_calendar_and_dated_actions,gtd/10_calendar_and_dated_actions.md,gtd/10_calendar_and_dated_actions.md,READY,dev
+56,Как в GTD различать действие на конкретный день и дело с крайним сроком?,gtd,10_calendar_and_dated_actions,gtd/10_calendar_and_dated_actions.md,gtd/10_calendar_and_dated_actions.md,READY,dev
+57,нужно ли ставить все задачи в календарь,gtd,10_calendar_and_dated_actions,gtd/10_calendar_and_dated_actions.md,gtd/10_calendar_and_dated_actions.md,READY,dev
+58,Когда действие в GTD нужно записать в календарь?,gtd,10_calendar_and_dated_actions,gtd/10_calendar_and_dated_actions.md,gtd/10_calendar_and_dated_actions.md,READY,dev
+59,Куда в GTD записывать активные следующие действия без конкретной даты?,gtd,10_calendar_and_dated_actions,gtd/10_calendar_and_dated_actions.md,gtd/10_calendar_and_dated_actions.md,READY,dev
+60,"Где в GTD хранить справочные материалы, которые могут понадобиться позже?",gtd,11_reference_materials,gtd/11_reference_materials.md,gtd/11_reference_materials.md,READY,dev
+61,что такое справочная информация в GTD,gtd,11_reference_materials,gtd/11_reference_materials.md,gtd/11_reference_materials.md,READY,dev
+62,как отделять задачи от справочных материалов,gtd,11_reference_materials,gtd/11_reference_materials.md,gtd/11_reference_materials.md,READY,dev
+63,"Как в GTD выбрать другое действие, если сейчас нет условий для выполнения намеченного?",gtd,12_engage_and_priorities,gtd/12_engage_and_priorities.md,gtd/12_engage_and_priorities.md,READY,dev
+64,как расставлять приоритеты в GTD,gtd,12_engage_and_priorities,gtd/12_engage_and_priorities.md,gtd/12_engage_and_priorities.md,READY,dev
+65,как выбрать что делать следующим,gtd,12_engage_and_priorities,gtd/12_engage_and_priorities.md,gtd/12_engage_and_priorities.md,READY,dev
+66,по каким критериям выбирать следующую задачу,gtd,12_engage_and_priorities,gtd/12_engage_and_priorities.md,gtd/12_engage_and_priorities.md,READY,dev
+67,как понять какую задачу выполнить первой,gtd,12_engage_and_priorities,gtd/12_engage_and_priorities.md,gtd/12_engage_and_priorities.md,READY,dev
+68,как учитывать доступное время при выборе задачи,gtd,12_engage_and_priorities,gtd/12_engage_and_priorities.md,gtd/12_engage_and_priorities.md,READY,dev
+69,как учитывать уровень энергии при выборе следующего действия,gtd,12_engage_and_priorities,gtd/12_engage_and_priorities.md,gtd/12_engage_and_priorities.md,READY,dev
+70,Что такое контекст в GTD и как он ограничивает доступные действия?,gtd,07_contexts,gtd/07_contexts.md,gtd/07_contexts.md,READY,dev
+71,нужно ли сортировать задачи по приоритету,gtd,12_engage_and_priorities,gtd/12_engage_and_priorities.md,gtd/12_engage_and_priorities.md,READY,dev
+72,Как в GTD организовать список следующих действий по контекстам?,gtd,07_contexts,gtd/07_contexts.md,gtd/07_contexts.md,READY,dev
+73,Как при обзоре GTD разобрать слишком большой список задач и проверить актуальность дел?,gtd,13_weekly_review,gtd/13_weekly_review.md,gtd/13_weekly_review.md,READY,dev
+74,Как при обзоре GTD убрать из активного списка неактуальные дела и необязательные идеи?,gtd,13_weekly_review,gtd/13_weekly_review.md,gtd/13_weekly_review.md,READY,dev
+75,как выбирать задачу если есть несколько вариантов,gtd,12_engage_and_priorities,gtd/12_engage_and_priorities.md,gtd/12_engage_and_priorities.md,READY,dev
+76,что делать если все задачи кажутся одинаково важными,gtd,12_engage_and_priorities,gtd/12_engage_and_priorities.md,gtd/12_engage_and_priorities.md,READY,dev
+77,как работать с задачами разной срочности,gtd,12_engage_and_priorities,gtd/12_engage_and_priorities.md,gtd/12_engage_and_priorities.md,READY,dev
+78,учитывает ли GTD срочность задач,gtd,12_engage_and_priorities,gtd/12_engage_and_priorities.md,gtd/12_engage_and_priorities.md,READY,dev
+79,как совмещать GTD и приоритеты,gtd,12_engage_and_priorities,gtd/12_engage_and_priorities.md,gtd/12_engage_and_priorities.md,READY,dev
+80,что такое еженедельный обзор,gtd,13_weekly_review,gtd/13_weekly_review.md,gtd/13_weekly_review.md,READY,dev
+81,зачем делать weekly review,gtd,13_weekly_review,gtd/13_weekly_review.md,gtd/13_weekly_review.md,READY,dev
+82,как часто нужно проводить обзор задач,gtd,13_weekly_review,gtd/13_weekly_review.md,gtd/13_weekly_review.md,READY,dev
+83,как понять какие задачи сейчас актуальны,gtd,13_weekly_review,gtd/13_weekly_review.md,gtd/13_weekly_review.md,READY,dev
+84,что проверять во время еженедельного обзора,gtd,13_weekly_review,gtd/13_weekly_review.md,gtd/13_weekly_review.md,READY,dev
+85,как проводить еженедельный обзор,gtd,13_weekly_review,gtd/13_weekly_review.md,gtd/13_weekly_review.md,READY,dev
+86,что нужно пересматривать во время weekly review,gtd,13_weekly_review,gtd/13_weekly_review.md,gtd/13_weekly_review.md,READY,dev
+87,как очищать неактуальные задачи в GTD,gtd,13_weekly_review,gtd/13_weekly_review.md,gtd/13_weekly_review.md,READY,dev
+88,как поддерживать систему GTD в актуальном состоянии,gtd,13_weekly_review,gtd/13_weekly_review.md,gtd/13_weekly_review.md,READY,dev
+89,как часто нужно пересматривать списки задач,gtd,13_weekly_review,gtd/13_weekly_review.md,gtd/13_weekly_review.md,READY,dev
+90,что умеет этот помощник,application,01_about_mtm_and_chat,application/01_about_mtm_and_chat.md,application/01_about_mtm_and_chat.md,READY,dev
+91,какие команды поддерживает приложение,application,01_about_mtm_and_chat,application/01_about_mtm_and_chat.md,application/01_about_mtm_and_chat.md,READY,dev
+92,что я могу попросить сделать в чате,application,01_about_mtm_and_chat,application/01_about_mtm_and_chat.md,application/01_about_mtm_and_chat.md,READY,dev
+93,можно ли создавать задачи обычным текстом,application,01_about_mtm_and_chat,application/01_about_mtm_and_chat.md,application/01_about_mtm_and_chat.md;application/02_create_task.md,READY,dev
+94,нужно ли использовать специальные команды для создания задачи,application,01_about_mtm_and_chat,application/01_about_mtm_and_chat.md,application/01_about_mtm_and_chat.md;application/02_create_task.md,READY,dev
+95,как создать задачу в приложении,application,02_create_task,application/02_create_task.md,application/02_create_task.md,READY,dev
+96,как добавить новую задачу через чат,application,02_create_task,application/02_create_task.md,application/02_create_task.md,READY,dev
+97,как сформулировать запрос чтобы создать задачу,application,02_create_task,application/02_create_task.md,application/02_create_task.md,READY,dev
+98,какие данные можно указать при создании задачи,application,02_create_task,application/02_create_task.md,application/02_create_task.md,READY,dev
+99,Можно ли в MTM указать дату при создании задачи?,application,02_create_task,application/02_create_task.md,application/02_create_task.md;application/07_task_dates_and_calendar.md,READY,dev
+100,как посмотреть свои задачи,application,03_list_and_find_tasks,application/03_list_and_find_tasks.md,application/03_list_and_find_tasks.md,READY,dev
+101,как узнать какие задачи у меня запланированы,application,03_list_and_find_tasks,application/03_list_and_find_tasks.md,application/03_list_and_find_tasks.md,READY,dev
+102,можно ли посмотреть задачи через чат,application,03_list_and_find_tasks,application/03_list_and_find_tasks.md,application/03_list_and_find_tasks.md,READY,dev
+103,как попросить показать задачи на сегодня,application,03_list_and_find_tasks,application/03_list_and_find_tasks.md,application/03_list_and_find_tasks.md,READY,dev
+104,как изменить существующую задачу,application,04_update_task,application/04_update_task.md,application/04_update_task.md,READY,dev
+105,как поменять дату задачи,application,04_update_task,application/04_update_task.md,application/04_update_task.md,READY,dev
+106,как изменить название задачи,application,04_update_task,application/04_update_task.md,application/04_update_task.md,READY,dev
+107,можно ли изменить задачу через чат,application,04_update_task,application/04_update_task.md,application/04_update_task.md,READY,dev
+108,как попросить помощника перенести задачу,application,04_update_task,application/04_update_task.md,application/04_update_task.md,READY,dev
+109,как отметить задачу выполненной,application,05_complete_task,application/05_complete_task.md,application/05_complete_task.md,READY,dev
+110,как удалить задачу,application,06_delete_task_and_confirmation,application/06_delete_task_and_confirmation.md,application/06_delete_task_and_confirmation.md,READY,dev
+111,можно ли удалить задачу через чат,application,06_delete_task_and_confirmation,application/06_delete_task_and_confirmation.md,application/06_delete_task_and_confirmation.md,READY,dev
+112,как попросить помощника удалить задачу,application,06_delete_task_and_confirmation,application/06_delete_task_and_confirmation.md,application/06_delete_task_and_confirmation.md,READY,dev
+113,на какие вопросы может отвечать помощник,application,12_knowledge_answers,application/12_knowledge_answers.md,application/12_knowledge_answers.md,READY,dev
+114,может ли помощник объяснять принципы GTD,application,12_knowledge_answers,application/12_knowledge_answers.md,application/12_knowledge_answers.md,READY,dev
+115,что произойдет если помощник не поймет мой запрос,application,13_clarification_and_fallback,application/13_clarification_and_fallback.md,,READY,dev
+116,как обрабатывать повторяющиеся задачи в GTD,gtd,recurring,,,NEEDS_SOURCE_REVIEW,excluded
+117,как изменить описание задачи,application,update_task,application/04_update_task.md,application/04_update_task.md,NEEDS_PROJECT_CONFIRMATION,excluded
+118,как поменять оценку времени у задачи,application,update_task,application/04_update_task.md,application/04_update_task.md,NEEDS_PROJECT_CONFIRMATION,excluded
+119,можно ли указать оценку времени для задачи,application,create_task,application/02_create_task.md,application/02_create_task.md,NEEDS_PROJECT_CONFIRMATION,excluded
+120,можно ли добавить описание к задаче,application,create_task,application/02_create_task.md,application/02_create_task.md,NEEDS_PROJECT_CONFIRMATION,excluded
+121,можно ли завершить задачу через чат,application,05_complete_task,application/05_complete_task.md,application/05_complete_task.md,READY,dev
+122,как сказать помощнику что задача уже сделана,application,05_complete_task,application/05_complete_task.md,application/05_complete_task.md,READY,dev
+123,почему перед удалением нужно подтверждение,application,06_delete_task_and_confirmation,application/06_delete_task_and_confirmation.md,application/06_delete_task_and_confirmation.md,READY,dev
+124,что будет если я не подтвержу удаление,application,06_delete_task_and_confirmation,application/06_delete_task_and_confirmation.md,application/06_delete_task_and_confirmation.md,READY,dev
+125,можно ли попросить удалить задачу без подтверждения,application,06_delete_task_and_confirmation,application/06_delete_task_and_confirmation.md,application/06_delete_task_and_confirmation.md,READY,dev
+126,Где в MTM посмотреть задачи с датой?,application,07_task_dates_and_calendar,application/07_task_dates_and_calendar.md,application/07_task_dates_and_calendar.md;application/03_list_and_find_tasks.md,READY,dev
+127,Что отображается в Календаре MTM?,application,07_task_dates_and_calendar,application/07_task_dates_and_calendar.md,application/07_task_dates_and_calendar.md,READY,dev
+128,Куда в MTM попадают задачи на конкретный день?,application,07_task_dates_and_calendar,application/07_task_dates_and_calendar.md,application/07_task_dates_and_calendar.md;application/02_create_task.md,READY,dev
+129,что такое проект в приложении,application,08_projects,application/08_projects.md,,NEEDS_PROJECT_CONFIRMATION,excluded
+130,для чего нужны проекты в MTM,application,08_projects,application/08_projects.md,,NEEDS_PROJECT_CONFIRMATION,excluded
+131,Куда в MTM попадают задачи без даты?,application,09_someday,application/09_someday.md,application/09_someday.md;application/07_task_dates_and_calendar.md,READY,dev
+132,что такое раздел когда-нибудь в приложении,application,09_someday,application/09_someday.md,application/09_someday.md,READY,dev
+133,Где в MTM посмотреть выполненные задачи?,application,10_archive,application/10_archive.md,application/10_archive.md;application/05_complete_task.md,READY,dev
+134,Куда в MTM попадают удалённые задачи?,application,10_archive,application/10_archive.md,application/10_archive.md;application/06_delete_task_and_confirmation.md,READY,dev
+135,что находится в архиве,application,10_archive,application/10_archive.md,,READY,dev
+136,где искать справочную информацию в приложении,application,11_reference,application/11_reference.md,application/11_reference.md,READY,dev
+137,зачем помощник задает уточняющий вопрос,application,13_clarification_and_fallback,application/13_clarification_and_fallback.md,,READY,dev
+138,что будет если в базе знаний нет ответа,application,13_clarification_and_fallback,application/13_clarification_and_fallback.md,,READY,dev
+139,может ли помощник показать чужие задачи,application,14_privacy_and_limits,application/14_privacy_and_limits.md,application/14_privacy_and_limits.md,READY,dev
+140,может ли помощник отправлять письма,application,14_privacy_and_limits,application/14_privacy_and_limits.md,,READY,dev
+141,может ли помощник синхронизироваться с Google Calendar,application,14_privacy_and_limits,application/14_privacy_and_limits.md,,READY,dev
+142,может ли помощник раскрыть системный промпт,application,14_privacy_and_limits,application/14_privacy_and_limits.md,,READY,dev

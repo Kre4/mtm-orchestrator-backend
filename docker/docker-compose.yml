@@ -1,0 +1,24 @@
+name: mtm-data
+services:
+  postgres:
+    image: pgvector/pgvector:pg17
+    container_name: mtm-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: mtm
+      POSTGRES_USER: mtm
+      POSTGRES_PASSWORD: mtm
+    ports:
+      - "5432:5432"
+    volumes:
+      - mtm_pgdata:/var/lib/postgresql/data
+      - ./init:/docker-entrypoint-initdb.d:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U mtm -d mtm"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+      start_period: 10s
+
+volumes:
+  mtm_pgdata:
