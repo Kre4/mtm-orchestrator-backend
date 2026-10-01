@@ -1,6 +1,6 @@
 package ru.mtm.backend;
 
-import ru.mtm.backend.knowledge.KnowledgeProperties;
+import ru.mtm.backend.config.KnowledgeProperties;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
