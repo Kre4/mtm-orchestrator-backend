@@ -9,14 +9,22 @@ Knowledge Base используется для справочных ответо
 
 ## Структура
 
+Индексируемый корпус лежит в classpath и попадает в собранное приложение:
+
+```text
+src/main/resources/knowledge/
+├── corpus_manifest.json
+├── gtd/
+└── application/
+```
+
+Реестр, открытые вопросы и оценка retrieval остаются вне индекса:
+
 ```text
 knowledge_base/
 ├── README.md
 ├── source_registry.md
-├── corpus_manifest.json
 ├── open_questions.md
-├── gtd/
-├── application/
 └── evaluation/
     ├── README.md
     └── retrieval_test_set.csv
@@ -46,9 +54,11 @@ language: ru
 
 ## Индексация
 
-Список документов, разрешённых к индексации, находится в `corpus_manifest.json`.
+Список документов, разрешённых к индексации, находится в `src/main/resources/knowledge/corpus_manifest.json`.
 
-Документы могут быть разбиты на chunks, преобразованы в embeddings и сохранены в PostgreSQL с pgvector.
+Поле `version` этого манифеста записывается в таблицу `knowledge_corpus_state`. Таблицу создаёт миграция Flyway `V1__create_knowledge_corpus_state.sql`. Если при старте там уже лежит та же версия, эмбеддинги не пересчитываются. После правки статей версию нужно увеличить.
+
+Документы преобразуются в embeddings и сохраняются в PostgreSQL с pgvector.
 
 ## Требования к содержанию
 
